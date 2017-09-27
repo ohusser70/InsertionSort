@@ -2,7 +2,7 @@
 
 namespace InsertionSort
 {
-    class Program
+    public class Program
     {
 
         static public void Exchange (ref int v1, ref int v2)
